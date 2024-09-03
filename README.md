@@ -1,4 +1,9 @@
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmV6YTkxeHdkdXp2YW55NDYzY2o5bDM4bWZzejBieWZjdzNnNGN4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I0e4u216Qhww8eRTVq/giphy.gif" width="75%" height="auto"/></p>
+<pre align="center"> ██████ ██    ██ ██████  ██████   ██████  ██████   ██████  
+██       ██  ██  ██   ██ ██   ██ ██  ████ ██   ██ ██       
+██        ████   ██████  ██████  ██ ██ ██ ██████  ██   ███ 
+██         ██    ██   ██ ██   ██ ████  ██ ██   ██ ██    ██ 
+ ██████    ██    ██████  ██████   ██████  ██   ██  ██████  </pre>
 
 # About me <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="hello" width="25px"/>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlpZ2xwMTI4OGRseG9nYWpicDEwaTFydDRnN2VvaHpiZ3JtMTQ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif" width="35%" align="right">
