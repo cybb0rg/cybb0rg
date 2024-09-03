@@ -9,7 +9,7 @@
 `A repository of tools I created and shared with the community!`
 
 # GitHub Stats
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE1aXozemp1eTVjM2c3bW85M3YwY21sZnNyNDFwNHJsaGp5b2o0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qB2HYA1vVSxooSY/giphy.gif" width="50%" align="right">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE1aXozemp1eTVjM2c3bW85M3YwY21sZnNyNDFwNHJsaGp5b2o0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT8qB2HYA1vVSxooSY/giphy.gif" width="35%" align="right">
 
 ![](https://github-readme-stats.vercel.app/api?username=CybB0rg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CybB0rg&theme=dark&hide_border=false)<br/>
