@@ -9,7 +9,7 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlpZ2xwMTI4OGRseG9nYWpicDEwaTFydDRnN2VvaHpiZ3JtMTQ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fdOA43sHFE6Pu/giphy.gif" width="35%" align="right">
 👨‍💻 Working as a Blue Team Analyst<br>👨‍💻 Learning Penetration Testing, Bug Bounty Hunting, and Malware Analysis<br>👨‍💻 Writing Useful Tools for Myself & the Community
 
-# What've been doing
+# What I Have Been Doing...
 👉 [Tools](https://github.com/cybb0rg/tools/)<br>
 `A repository of tools I created and shared with the community!`
 
